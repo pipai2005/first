@@ -7,5 +7,7 @@ int main() {
 
 	cout << "来踩" << endl;
 
+	cout << "branch2" << endl;
+
 	return 0;
 }
