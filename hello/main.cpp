@@ -9,5 +9,6 @@ int main() {
 
 	cout << "branch2" << endl;
 
+	system("pause");
 	return 0;
 }
